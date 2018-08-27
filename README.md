@@ -1,6 +1,6 @@
 # OpenSSH-Enumeration
 
-Exploit: http://seclists.org/oss-sec/2018/q3/124
+Vulnerability: http://seclists.org/oss-sec/2018/q3/124
 Orignial POC: https://bugfuzz.com/stuff/ssh-check-username.py
 
 
