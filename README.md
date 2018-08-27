@@ -56,8 +56,3 @@ python Openssh.py 127.0.0.1 -U username.txt --port 22 -o ~/Desktop/validusers.tx
 * **Matthew Daley** - *Initial work* - [Matthew Daley](https://bugfuzz.com/stuff/ssh-check-username.py)
 
 * **Patrick Sukop** - *Current Version* [Patrick Sukop](https://github.com/knadt/)
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
