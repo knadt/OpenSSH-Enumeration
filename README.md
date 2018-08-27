@@ -3,9 +3,11 @@
 Vulnerability: http://seclists.org/oss-sec/2018/q3/124
 Orignial POC: https://bugfuzz.com/stuff/ssh-check-username.py
 
-
+```
+Affected Versions: OpenSSH version < 7.7
+CVE: CVE-2018-15473
+```
 ## Getting Started
-
 ```
 python Openssh.py -h
 ```
