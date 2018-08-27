@@ -10,7 +10,7 @@ Orignial POC: https://bugfuzz.com/stuff/ssh-check-username.py
 python Openssh.py -h
 ```
 ## Usage 
-
+```
 usage: Openssh.py [-h] [--port PORT] [-u USERNAME] [-U USERLIST] [-o OUTPUT]
                   hostname
 --port 22 default
@@ -28,6 +28,7 @@ optional arguments:
                         input a username file
   -o OUTPUT, --output OUTPUT
                         output file
+```
 
 
 ### Prerequisites
