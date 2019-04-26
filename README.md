@@ -50,7 +50,7 @@ python Openssh.py 127.0.0.1 -u root
 ```
 Check a list of usernames on port 22 host 127.0.0.1 and create an output file
 ```
-python Openssh.py 127.0.0.1 -U username.txt --port 22 -o ~/Desktop/validusers.txt.txt
+python Openssh.py 127.0.0.1 -U username.txt --port 22 -o ~/Desktop/validusers.txt
 ```
 
 ## Authors
